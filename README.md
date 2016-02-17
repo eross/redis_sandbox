@@ -1,2 +1,3 @@
 # redis_sandbox
-Templates and patterns for using  Redis.
+Templates and patterns for using Redis.
+
