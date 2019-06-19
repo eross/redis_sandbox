@@ -3,3 +3,5 @@ Templates and patterns for using Redis.
 <!--
 [comment] #comment
 -->
+
+[comment]: # comment
